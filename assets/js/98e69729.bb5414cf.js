@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpolycity_homepage=self.webpackChunkpolycity_homepage||[]).push([[893],{5956:function(e){e.exports=JSON.parse('{"allTagsPath":"/homepage/blog/tags","slug":"/homepage/blog/tags/hello","name":"hello","count":2,"permalink":"/homepage/blog/tags/hello"}')}}]);
