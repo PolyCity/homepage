@@ -57,7 +57,7 @@
             label: 'Tutorials',
           },
           {
-            to: 'blogs',
+            to: 'blog',
             label: 'Blog',
             position: 'left'
           },
@@ -118,7 +118,7 @@
             title: 'More',
             items: [{
                 label: 'Blog',
-                to: 'blogs',
+                to: 'blog',
               },
               {
                 label: 'GitHub',
