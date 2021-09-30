@@ -13,7 +13,7 @@
   title: 'The leaf is always greener on PolyCityDex',
   tagline: 'Swap, earn, stack yields on a decentralized, community driven platform. Welcome home to DeFi.',
   url: 'https://polycity.xyz',
-  baseUrl: '/homepage/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/polycity.png',
